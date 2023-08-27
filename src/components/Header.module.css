@@ -1,0 +1,22 @@
+.h {
+    width: 100vw;
+    height: 60px;
+    background-color: rgb(226, 149, 6);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title {
+    padding-left: 100px;
+}
+
+
+
+.text {
+    color: white;
+    font-size: 30px;
+    margin: 40px;
+    border: none;
+    background: none;
+}

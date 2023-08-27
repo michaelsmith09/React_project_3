@@ -1,0 +1,36 @@
+.foot {
+    width: 100vw;
+    height: 150px;
+    background-color: rgb(92, 88, 88);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rightSpace {
+    margin-right: 100px;
+}
+
+.leftSpace {
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    height: 90px;
+    justify-content: space-evenly;
+}
+
+.text {
+    color: lightgrey;
+    font-size: 18px;
+}
+
+.littleIcons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.backIcons {
+    background-color: aquamarine;
+    border-radius: 50%;
+    padding: 5px;
+}
